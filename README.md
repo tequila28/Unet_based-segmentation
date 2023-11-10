@@ -1,1 +1,2 @@
+<h1>My innovative work. </h1> <br>
 I have used the SEnet, resnet to modity the Unet, along with the pre-training method, and conducted experienments on two datasets(deepglobe roads and person images), showing the strong features representation ability of imposing the SE blocks on the concating operation in the Unet. This project includes three models, namely the Unet, SEResUnet and SEUnet, and their pre-trained versions.
